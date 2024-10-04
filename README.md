@@ -6,7 +6,7 @@
 
 - This is basic and doesn't use structured outputs that I can tell, I was just doing it to get a feel for how to do this procedure
 
-- in a *plot twist*, chatgpt did not write very much of this code for me!! I really had to go through it myself (which is great for learning). It was actually not great at understanding open ai's documentation / features 
+- in a *plot twist*, chatgpt did not write very much of this code for me!! I really had to go through it myself (which is great for learning). Not for lack of trying though! It turns out that ChatGPT was actually not great at understanding open ai's documentation / features. So went old school with this one! 
 
 
 ## Demo 
