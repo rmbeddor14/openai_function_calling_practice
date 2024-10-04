@@ -8,6 +8,8 @@
 
 - in a *plot twist*, chatgpt did not write very much of this code for me!! I really had to go through it myself (which is great for learning). Not for lack of trying though! It turns out that ChatGPT was actually not great at understanding open ai's documentation / features. So went old school with this one! 
 
+- here's the link to the doc I followed [OpenAI function calling doc](https://platform.openai.com/docs/guides/function-calling)
+
 
 ## Demo 
 [![Watch the video](img/thumbnail.png)](https://youtu.be/VLbNAaQn5zI?si=S4SxcPJ1pxAVL8JR)
