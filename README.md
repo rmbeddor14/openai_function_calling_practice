@@ -1,10 +1,8 @@
 ## Basic Function Calling
 
-- I will fill out more of this later but wanted to put something up for now 
+- I attended a cloudflare openai meetup on Oct 2 where I learned about new openai feature for structured outputs (i'll put that code up later too - that's way cooler)
 
-- I attended a cloudflare openai meetup where I learned about new openai feature for structured outputs (i'll put that code up later too - that's way cooler)
-
-- It made me want to practice basic function calling
+- That event made me want to practice basic function calling
 
 - This is basic and doesn't use structured outputs that I can tell, I was just doing it to get a feel for how to do this procedure
 
@@ -15,9 +13,8 @@
 [![Watch the video](img/thumbnail.png)](https://youtu.be/VLbNAaQn5zI?si=S4SxcPJ1pxAVL8JR)
 
 ## What this code does
-- the demo really shows it by printing out info as the procedure occurs but basically
-- there's a basic function that just makes a random ship date based on your order num 
-- if triggered by the user prompt, the open ai api key calls the function 
+- there's a basic function called `when_did_my_order_ship` that just returns a random ship date based on your order num 
+- when the user asks the llm for their ship date, the llm calls `when_did_my_order_ship` and returns the output of the function 
 
 ## prerequisites
 - just openai & requests
